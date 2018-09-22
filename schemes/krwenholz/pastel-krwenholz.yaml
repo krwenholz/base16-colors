@@ -1,4 +1,4 @@
-scheme: "Pastel"
+scheme: "Pastel (git@github.com:krwenholz/base16-colors.git)"
 author: "Kyle Wenholz (http://krwenholz.com)"
 base00: "262626"
 base01: "a8ff60"
