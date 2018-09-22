@@ -1,0 +1,60 @@
+# Base16 Pastel
+# Author: Kyle Wenholz (http://krwenholz.com)
+
+ec prompt rgb:ffb6b0
+ec swi rgb:ffb6b0
+
+ec b0x00 rgb:ffffb6
+ec b0x7f rgb:4f4f4f
+ec b0xff rgb:4f4f4f
+ec btext rgb:b5dcff
+ec other rgb:ffffff
+
+ec push rgb:ff9cfe
+ec pop rgb:ff9cfe
+
+ec bin rgb:b5dcff
+ec math rgb:b5dcff
+ec mov rgb:b5dcff
+ec call rgb:ffffcc
+ec cjmp rgb:dfdffe
+ec jmp rgb:dfdffe
+ec cmp rgb:b5dcff
+ec ret rgb:b5dcff
+ec nop rgb:ffffb6
+
+ec reg rgb:ffb6b0
+ec creg rgb:ff6c60
+
+ec num rgb:ff6c60
+ec fline rgb:ffffcc
+ec fname rgb:ffffcc
+ec flow rgb:96cbfe
+ec flow2 rgb:96cbfe
+ec label rgb:ceffac
+ec offset rgb:ff9cfe
+ec trap rgb:ceffac
+ec flag rgb:ff9cfe
+ec args rgb:ceffac
+ec invalid rgb:ffb6b0
+ec help rgb:ceffac
+
+ec input rgb:ffffff
+ec comment rgb:4f4f4f
+ec usrcmt rgb:ffffff
+
+ec ai.read rgb:ff6c60
+ec ai.write rgb:ffffcc
+ec ai.exec rgb:ffffcc
+ec ai.seq rgb:ffffcc
+ec ai.ascii rgb:ceffac
+
+ec graph.true rgb:ceffac
+ec graph.trufae rgb:ceffac
+ec graph.false rgb:ffb6b0
+ec graph.current rgb:ffffff
+ec graph.traced rgb:ffffcc
+ec graph.box rgb:dfdffe
+ec graph.box2 rgb:b5dcff
+ec graph.box3 rgb:b5dcff
+ec graph.box4 rgb:b5dcff

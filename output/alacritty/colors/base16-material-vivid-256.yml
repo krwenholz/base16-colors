@@ -1,0 +1,34 @@
+# Base16 Material Vivid 256 - alacritty color config
+# joshyrobot
+colors:
+  # Default colors
+  primary:
+    background: '0x263238'
+    foreground: '0xB0BEC5'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x263238'
+    cursor: '0xB0BEC5'
+
+  # Normal colors
+  normal:
+    black:   '0x263238'
+    red:     '0xFF1744'
+    green:   '0x00E676'
+    yellow:  '0xFFC400'
+    blue:    '0x2979FF'
+    magenta: '0x651FFF'
+    cyan:    '0x00B0FF'
+    white:   '0xB0BEC5'
+
+  # Bright colors
+  bright:
+    black:   '0x546E7A'
+    red:     '0xFF1744'
+    green:   '0x00E676'
+    yellow:  '0xFFC400'
+    blue:    '0x2979FF'
+    magenta: '0x651FFF'
+    cyan:    '0x00B0FF'
+    white:   '0xB0BEC5'

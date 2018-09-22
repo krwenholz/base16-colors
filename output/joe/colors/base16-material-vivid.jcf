@@ -1,0 +1,61 @@
+
+# base16 Material Vivid by joshyrobot
+
+.colors *
+
+-text		$B0BEC5/$263238
+-status		$90A4AE/$455A64
+-cursor		$263238/$B0BEC5
+-selection	/$455A64
+-curlin		/$37474F
+-linum		$546E7A/$37474F
+-curlinum	$90A4AE/$37474F
+-menusel	$37474F/$90A4AE
+
+-term 0 	$263238
+-term 1 	$2979FF
+-term 2 	$00E676
+-term 3 	$00B0FF
+-term 4 	$FF9100
+-term 5 	$651FFF
+-term 6 	$FFC400
+-term 7 	$90A4AE
+-term 8 	$546E7A
+-term 9 	$2979FF
+-term 10	$00E676
+-term 11	$00B0FF
+-term 12	$FF1744
+-term 13	$8D6E63
+-term 14	$FFC400
+-term 15	$ECEFF1
+
+=Constant	$FF9100
+=String		$00E676
+=Escape		$00B0FF
+
+=Comment	$546E7A
+=StorageClass	+Type
+=Keyword	$651FFF
+=Conditional	$651FFF
+=Operator	$B0BEC5
+=Loop		$FFC400
+=Statement	$FF1744
+=Type		$FFC400
+
+=DefinedIdent	$FF1744
+=Label		$FFC400
+=DefinedType	$FFC400
+=Structure	$651FFF
+
+=Preproc	$FFC400
+=Include	$2979FF
+=Define		$651FFF
+=TODO		$FFC400/$37474F
+=Precond	$651FFF
+
+=diff.AddLine	$00E676/$37474F
+=diff.ChgLine	$546E7A/$37474F
+=diff.DelLine	$FF1744/$37474F
+=diff.File	$FF1744
+=diff.FileNew	$00E676
+=diff.Hunk	$2979FF

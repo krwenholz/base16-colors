@@ -1,0 +1,12 @@
+<!--    Base16 Pastel
+        Author: Kyle Wenholz (http://krwenholz.com)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="b5dcff" />
+    <option name="accentColor" value="b5dcff" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

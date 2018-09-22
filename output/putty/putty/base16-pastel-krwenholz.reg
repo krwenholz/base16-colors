@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Pastel
+; schema by Kyle Wenholz (http://krwenholz.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\pastel-krwenholz]
+
+; Default Foreground
+"Colour0"="255,255,255"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="255,255,255"
+
+; Default Background
+"Colour2"="38,38,38"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="38,38,38"
+
+; Cursor Text -- equals to default background
+"Colour4"="38,38,38"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="255,255,255"
+
+; ANSI Black
+"Colour6"="38,38,38"
+
+; ANSI Black Bold
+"Colour7"="79,79,79"
+
+; ANSI Red
+"Colour8"="255,182,176"
+
+; ANSI Red Bold
+"Colour9"="255,108,96"
+
+; ANSI Green
+"Colour10"="206,255,172"
+
+; ANSI Green Bold
+"Colour11"="168,255,96"
+
+; ANSI Yellow
+"Colour12"="255,255,204"
+
+; ANSI Yellow Bold
+"Colour13"="255,255,182"
+
+; ANSI Blue
+"Colour14"="181,220,255"
+
+; ANSI Blue Bold
+"Colour15"="150,203,254"
+
+; ANSI Magenta
+"Colour16"="255,156,254"
+
+; ANSI Magenta Bold
+"Colour17"="255,115,253"
+
+; ANSI Cyan
+"Colour18"="223,223,254"
+
+; ANSI Cyan Bold
+"Colour19"="198,197,254"
+
+; ANSI White
+"Colour20"="255,255,255"
+
+; ANSI White Bold
+"Colour21"="238,238,238"
+

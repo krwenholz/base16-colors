@@ -1,0 +1,26 @@
+-- Name: Base16 Pastel
+-- Author: Kyle Wenholz (http://krwenholz.com)
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#ffffff" }
+Canvas = { Colour="#262626" }
+Number = { Colour="#ff6c60" }
+Escape = { Colour="#ff73fd" , Italic=true}
+String = { Colour="#ceffac" }
+BlockComment = { Colour="#4f4f4f" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#ffffff" }
+LineNum      = { Color="#4f4f4f" }
+PreProcessor      = { Colour="#c6c5fe" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#ffb6b0", Bold=true},
+  { Colour="#ffffcc"},
+  { Colour="#b5dcff"},
+  { Colour="#ffffcc"},
+  { Colour="#ffffcc" }
+}

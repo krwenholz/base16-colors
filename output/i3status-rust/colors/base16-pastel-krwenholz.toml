@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Pastel by Kyle Wenholz (http://krwenholz.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#262626"
+idle_fg = "#ffffff"
+info_bg = "#dfdffe"
+info_fg = "#262626"
+good_bg = "#ceffac"
+good_fg = "#262626"
+warning_bg = "#ffffcc"
+warning_fg = "#262626"
+critical_bg = "#ffb6b0"
+critical_fg = "#262626"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,6 @@
+[Scheme]
+Name=Base16-Pastel
+ColorForeground=#ffffff
+ColorBackground=#262626
+ColorCursor=x
+ColorPalette=#262626;#ffb6b0;#ceffac;#ffffcc;#b5dcff;#ff9cfe;#dfdffe;#ffffff;#4f4f4f;#ffb6b0;#ceffac;#ffffcc;#b5dcff;#ff9cfe;#dfdffe;#eeeeee

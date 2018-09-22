@@ -1,0 +1,61 @@
+
+# base16 Pastel by Kyle Wenholz (http://krwenholz.com)
+
+.colors *
+
+-text		$ffffff/$262626
+-status		$96cbfe/$ffffb6
+-cursor		$262626/$ffffff
+-selection	/$ffffb6
+-curlin		/$a8ff60
+-linum		$4f4f4f/$a8ff60
+-curlinum	$96cbfe/$a8ff60
+-menusel	$a8ff60/$96cbfe
+
+-term 0 	$262626
+-term 1 	$b5dcff
+-term 2 	$ceffac
+-term 3 	$dfdffe
+-term 4 	$ff6c60
+-term 5 	$ff9cfe
+-term 6 	$ffffcc
+-term 7 	$96cbfe
+-term 8 	$4f4f4f
+-term 9 	$b5dcff
+-term 10	$ceffac
+-term 11	$dfdffe
+-term 12	$ffb6b0
+-term 13	$c6c5fe
+-term 14	$ffffcc
+-term 15	$eeeeee
+
+=Constant	$ff6c60
+=String		$ceffac
+=Escape		$dfdffe
+
+=Comment	$4f4f4f
+=StorageClass	+Type
+=Keyword	$ff9cfe
+=Conditional	$ff9cfe
+=Operator	$ffffff
+=Loop		$ffffcc
+=Statement	$ffb6b0
+=Type		$ffffcc
+
+=DefinedIdent	$ffb6b0
+=Label		$ffffcc
+=DefinedType	$ffffcc
+=Structure	$ff9cfe
+
+=Preproc	$ffffcc
+=Include	$b5dcff
+=Define		$ff9cfe
+=TODO		$ffffcc/$a8ff60
+=Precond	$ff9cfe
+
+=diff.AddLine	$ceffac/$a8ff60
+=diff.ChgLine	$4f4f4f/$a8ff60
+=diff.DelLine	$ffb6b0/$a8ff60
+=diff.File	$ffb6b0
+=diff.FileNew	$ceffac
+=diff.Hunk	$b5dcff
